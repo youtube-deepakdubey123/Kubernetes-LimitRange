@@ -1,6 +1,6 @@
 # Kubernetes-LimitRange
 
-# Kubernetes LimitRange - How to create LimitRange & define Pods/Containers which follows those ranges
+## Kubernetes LimitRange - How to create LimitRange & define Pods/Containers which follows those ranges
 
 N=limitrange-example
 
